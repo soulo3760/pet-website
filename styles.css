@@ -1,0 +1,30 @@
+h1 {color:black;}
+h2 {color:brown;
+font-style:italic;
+}
+body{background-color: palegreen;}
+.intro{
+  font-style: italic;
+  font-size: 200%;
+  color: red;
+}
+#intro{
+  font-style: italic;
+  font-size: 200%;
+  color:blue;
+}
+p.intro{
+  font-size: 50%;
+  color: blue;
+}
+h1.intro{
+  font-size: 250%;
+  color:White;
+}
+.author{
+column-rule-color: red;
+background-color: brown;
+border-radius:50px;
+font-size: 500%;
+text-decoration: underline;
+}
