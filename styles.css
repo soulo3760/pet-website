@@ -5,26 +5,35 @@ font-style:italic;
 body{background-color: palegreen;}
 .intro{
   font-style: italic;
-  font-size: 200%;
+  font-size: 20%;
   color: red;
 }
-#intro{
-  font-style: italic;
-  font-size: 200%;
-  color:blue;
-}
 p.intro{
-  font-size: 50%;
+  font-size: 150%;
   color: blue;
 }
 h1.intro{
   font-size: 250%;
-  color:White;
+  color:blue;
 }
 .author{
-column-rule-color: red;
-background-color: brown;
+column-rule-color:green;
+background-color: yellow;
 border-radius:50px;
-font-size: 500%;
+font-size: 50%;
 text-decoration: underline;
 }
+.sidebar {
+  width: 100%;
+  height: : 100%;
+  float: left;
+  background-color: yellow;
+}
+main {
+      width: 30px;
+      float:right;
+}
+column {
+    width: 350px;
+    float: right;
+  }
